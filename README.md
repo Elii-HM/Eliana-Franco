@@ -1,6 +1,7 @@
-# Eliana-Franco
 # 💙 Tech Recruitment Lead en Buk | Psicóloga | Construyendo equipos donde talento, tecnología y cultura se encuentran
->"La tecnología transforma negocios, pero son las personas detrás de ella quienes construyen esa transformación." 🚀
+
+ "La tecnología transforma negocios, pero son las personas detrás de ella quienes construyen esa transformación." 🚀
+
 ## 🚀 Mi trabajo en Buk
 
 Soy líder del equipo de Tech Recruiters en Buk, donde diseño y lidero estrategias de atracción de talento para equipos de Tecnología y Producto.
@@ -20,16 +21,16 @@ Aunque mi formación viene del mundo de las personas, mi trabajo diario me ha ll
 Acompaño procesos de selección para perfiles que trabajan con tecnologías como:
 
 ### Backend
-- by on Rails
-- P (Symfony)
-- va
+Ruby on Rails
+PHP (Symfony)
+Java
 
 ### Cloud & Engineering
-- S
-- cker
-- bernetes
-- /CD
-- quitecturas escalables
+AWS
+Docker
+Kubernetes
+CI/CD
+Arquitecturas escalables
 
 Además, me interesan especialmente:
 
@@ -58,11 +59,11 @@ Este espacio es una forma de seguir aprendiendo del mundo tecnológico, comparti
 
 Me encanta conversar sobre:
 
-- lento tecnológico
-- derazgo y cultura de equipos
-- racción de talento
-- periencia del candidato
--  futuro del trabajo en tecnología
+Talento tecnológico
+Liderazgo y cultura de equipos
+Atracción de talento
+Experiencia del candidato
+El futuro del trabajo en tecnología
 
 💼 linkedin.com/in/eliana-franco-
 
